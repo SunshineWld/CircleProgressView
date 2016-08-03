@@ -1,0 +1,3 @@
+# CircleProgressView
+使用layer的子类CAShapeLayer和CAGradientLayer等去构建了一个圆形显示进度的View。
+可以改变进度圆盘的颜色，线条粗细等属性
